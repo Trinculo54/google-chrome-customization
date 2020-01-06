@@ -1,7 +1,7 @@
 # Extenstion
 
 `Razer Newtab`
-[here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)
+[here](https://github.com/Trinculo54/google-chrome-customization/blob/master/extension/New%20tab.zip?raw=true)
 
 # Theme
 `Razer Theme`
